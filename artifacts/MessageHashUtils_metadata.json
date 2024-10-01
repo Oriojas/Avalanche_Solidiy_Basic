@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Signature message hash utilities for producing digests to be consumed by {ECDSA} recovery or signing. The library provides methods for generating a hash of a message that conforms to the https://eips.ethereum.org/EIPS/eip-191[EIP 191] and https://eips.ethereum.org/EIPS/eip-712[EIP 712] specifications.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"oriojas_flattened.sol": "MessageHashUtils"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"oriojas_flattened.sol": {
+			"keccak256": "0x80ca4f40b655fccd3930b633230e18a3b37e684ca8f6c938b09ca610838939b0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4b400002f0ad4c6890177b0d347ad6d7de2a8da94d359c02c527bf8e150150f6",
+				"dweb:/ipfs/QmaJ9BoFJGDqvqYAnA8ZwoMyEC8qsa3B4jjK2RcRNNhtzj"
+			]
+		}
+	},
+	"version": 1
+}
