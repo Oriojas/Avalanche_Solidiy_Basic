@@ -2,6 +2,8 @@
 
 pragma solidity 0.8.24;
 
+//0x00F8CcbBD073AF1CCB60cd244EdEE86de5085a52
+
 contract Mapping {
     // Definimos un mapping de direcciones y enteros
     mapping(address => uint256) balances; 
